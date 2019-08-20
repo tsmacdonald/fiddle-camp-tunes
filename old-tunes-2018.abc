@@ -1,0 +1,131 @@
+X:1
+T:The Fairy's Love Song
+T:Cutting Bracken | Tha Mi Sgìth (I Am Tired)
+C:Anonymous; arr. T. S. Macdonald
+M:C
+L:1/4
+K:Am
+%%staves { 1 2 }
+V:1
+A > A a2 | g > e g2 | e > d B > A | G > A B < G |
+A > A a2 | g > e g2 | e > d B < e | A2 A2 :|
+|: e > d B > A | G > A B < G | e > d B > A | B2 d2 |
+e > d B > A | G > A B < d | e > d B < e | A2 A2 :|]
+V:2
+L:1/1
+"1"A, | "0"G, | "2"B, | "0"G, |
+"1"A, | "0"G, | "2"B, | "1"A, :|
+|:"1"A, | "0"G, | "1"A, | "0"G, |
+"1"A, | "0"G, | "2"B, | "1"A, :|]
+
+X:1
+T:The White Cockade
+C:Anonymous; arr. T. S. Macdonald
+M:C
+L:1/4
+K:G
+%%staves { 1 2 }
+V:1
+G/A/ | B B B A/G/ | B B B g/e/ | d B c/B/A/G/ | F A A G/A/ |
+B B c/B/A/G/ | B d g > a | b/a/g/f/ e/f/g/e/ | d B B :|
+|: B/c/ | d B g B | d d d > e | d B g f/g/ | a A A G/A/ |
+B B c/B/A/G/ | B d g > a | b/a/g/f/ e/f/g/e/ | d B B :|]
+V:2 clef=treble
+L:1/4
+z | "0"G, G, G, "0"D | "0"G, G, G, "0"D | "0"D D "1"E "2"F | "0"D D D z |
+"0"G, G, G,2 | "0"G, G, G,2 | "2"B,2 "3"C2 | "0"D D D :|
+|: z | "0"G, G, G, "0"D | "0"D D D2 | "0"G, G, G, "0"D | "0"A A A2 |
+"0"G, G, G,2 | "0"G, G, G,2 | "2"B,2 "3"C2 | "0"D D D :|]
+
+X:1
+T:Soldier's Joy
+C:Anonymous; arr. T. S. Macdonald
+M:C|
+K:D
+%%staves { 1 2 }
+V:1
+FG | AFDF AFDF | A2 d2 d2 cB | AFDF AFDF | G2 E2 E2 FG |
+AFDF AFDF | A2 d2 d2 e2 | fafd egec | d2 d2 d2 :|
+|: de | f2 f2 fagf | edcd efge | f2 f2 fagf | edcB A2 de |
+f2 f2 fagf | edcd efge | fafd egec | d2 d2 d2 :]
+V:2 clef=treble
+L:1/4
+z | "0"D2 D2 | D D D z | D2 D2 | "1"A, A, A, z |
+"0"D2 D2 | D D D z | D2 "1"A,2 | "0"D D D :|
+|: z | "0"D D D z | "1"A,2 A,2 | "0"D D D z | "1"A,2 A,2 |
+       "0"D D D z | "1"A,2 A,2 | "0"D2 "1"A,2 | "0"D D D :|
+
+
+
+X:1
+T:Drummond Castle
+C:Anonymous; arr. T. S. Macdonald
+M:6/8
+L:1/8
+K:Am
+%%staves { 1 2 }
+V:1
+E | ABA a3 | age g3 | c2 c edc | Bdg dBG |
+    ABA a3 | age g3 | ege deg | edB A2 :|
+|: B | c2 c cec | d2 d ded | c2 c edc | Bdg dBG |
+    c2 c edc | deg a2 g | ege deg | edB A2 :|]
+V:2
+L:1/8
+z | "0"A,3 A,3 | A,3 "0"G,3 | "3"C3 C3 | "0"G3 G3 |
+    "0"A,3 A,3 | A,3 "0"G,3 | "3"C3 "0"D3 | "1"E3 "1"A,2 :|
+|: z | "3"C3 C3 | "0"D3 D3 | "3"C3 C3 | "0"G3 G3 |
+       "3"C3 C3 | "0"D3 "0"A3 | "3"C3 "0"D3 | "1"E3 "1"A,2 :|]
+
+
+X:1
+T:The Blackthorn Stick
+C:Anonymous; arr. T. S. Macdonald
+M:6/8
+K:A
+%%staves { 1 2 }
+V:1
+e | aga faf | ecA BAF | EAA GAB | cBA B2 e |
+aga baf | ecA BAF | EAA GAB | cAA A2 :|
+|: e | fee aee | fee aee | fee agf | edc B2 e |
+aga baf | ecA BAF | EAA GAB | cAA A2 :|]
+V:2
+z | "1"A,3 A,3 | A,3 "2"B,3 | "1"A,3 "2"B,3 | "1"E3 "3"G3 |
+    "0"A3 "1"A,3 | A,3 "2"B,3 | "1"A,3 "2"B,3 | "3"C3 "1"A,2 :|
+|: z | "1"A,3 A,3 | A,3 A,3 | A,3 "2"B,3 | "1"E3 "3"G3 |
+    "0"A3 "1"A,3 | A,3 "2"B,3 | "1"A,3 "2"B,3 | "3"C3 "1"A,2 :|
+
+X:1
+T:The Mill
+C:Anonymous; arr. T. S. Macdonald
+M:4/4
+K:D
+%%staves { 1 2 }
+V:1
+de | f2 A>B A3 d | B>A Bd e2 de | f2 A>A gfed | B3 c d2 :|
+A2 | d>efg a2 aa | bagf e2 A>A | d>efg a>bag | f3 g a2 A>A |
+     d>efg a2 ga | bagf e2 de | f2 A>A gfed | B3 c d2 :|]
+V:2
+L:1/4
+"0"D | D4 | D2 "1"E2 | "2"F2 "3"G "2"F | "0"D > "1"E "2"F :|
+"0"D | D4 | D2 "1"E2 | "0"D4 | "0"D2 "1"A,2 |
+       D4 | D2 "1"E2 | "2"F2 "3"G "2"F | "0"D > "1"E "2"F :|]
+
+
+
+X:1
+T:The High Road to Linton
+C:Anonymous; arr. T. S. Macdonald
+M:C|
+K:A
+%%staves { 1 2 }
+V:1
+ceef a2 ae | f2 fe a2 ae | ceef a2 ae | faec B2 A2 :|
+|: cee=g fddf | ecce fBBd | cee=g fddf | ecac B2 A2 :|
+|: a2 a2 ef a2 | efae faef | a2 a2 efae | faec B2 A2 :|
+|: c2 ec d2 fd | c/c/c ec BcdB | c2 ec defg | afec B2 A2 :]
+V:2 clef=treble
+L:1/4
+"0"A A2 A | "0"D D2 D | "0"A A2 A | "0"D "1"E2 "0"A :|
+|: "1"A, A, "0"D D | "1"A, A, "2"B, B, |"1"A, A, "0"D D | "0"D "1"E E "1"A, :|
+|: "0"A A2 A | "0"D D2 D | "0"A A2 A | "0"D "1"E2 "0"A :|
+|: "1"A, A, "0"D D | "1"A, A, "2"B, B, |"1"A, A, "0"D D | "0"D "1"E E "1"A, :|
