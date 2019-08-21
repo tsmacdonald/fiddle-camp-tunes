@@ -1,0 +1,1 @@
+cat macphersons-rant.abc donald-blue.abc caledonias-return.abc auld-mans-mares-deid.abc scarce-o-tatties.abc old-tunes-2018.abc | abcm2ps -N3 - -O chicago-scottish-fiddle-camp-2019.ps && ps2pdf chicago-scottish-fiddle-camp-2019.ps && rm chicago-scottish-fiddle-camp-2019.ps

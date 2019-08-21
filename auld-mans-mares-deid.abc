@@ -1,0 +1,14 @@
+X:1
+T: The Auld Man's Mare's Deid
+C: attr. Patie Birnie; arr. T. S. Macdonald
+L: 1/8
+M: C|
+K: Em
+%%staves { 1 2 }
+V:1
+D2 | E2 E2 E2 d>B | A<FF>E D>EF<D | E2 E2 E2 d>^c | d>BA<F E2 :|
+|: B>d | e2 e>d B<ee>^c | d2 d<f D>EF<D | e>gB>e B2 A>d | B>Ad>F E2 :|
+V:2
+L:1/4
+"0"D | "1"E E2 E | "0"D D2 D | "1"E E2 E | "0"D D "1"E :|
+|: "0"D | "1"E2 E2 | "0"D D2 D | "1"E E E E | "0"D D "1"E :|

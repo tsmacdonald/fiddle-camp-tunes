@@ -1,0 +1,15 @@
+X:1
+T:The Caledonia's Return to Caledonia
+C:T. S. Macdonald
+R:air
+L:1/4
+M:C
+K:G
+%%staves { 1 2 }
+V:1
+%%text Very Slow
+d/c/ | B G D B, | G,3 A/B/ | c e g B | c3 d/c/ | B G d B | c/d/e/f/ g f/e/ | d B A B | G3 ||
+B/c/ | d g f g | d3 c/d/ | e c d B | A3 d/c/ | B G d B | c/d/e/c/ A B/c/ | d B A B | G3 |]
+V:2
+z | "0"G,4 | G,4 | "3"C2 "0"G,2 | "1"E4 | "0"G,4 | "3"C2 "2"B,2 | "1"A,4 | "0"G,3 ||
+z | "0"D4 | "0"D4 | "1"E2 "0"D2 | "2"F4 | "3"G4 | "1"E2 "0"D2 | "1"A,4 | "0"G,3 |]
