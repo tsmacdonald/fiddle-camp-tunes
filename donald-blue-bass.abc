@@ -1,15 +1,16 @@
+%% transpose AA,
 X:1
 T: Donald Blue
 C: arr. T. S. Macdonald
 L: 1/8
 M: C|
-K: D 
+K: D clef=bass
 %%staves { 1 2 }
 V:1
 "D"(dB)A(F AF)A(B | dB)AF "A"E2 D2 | "D"(dB)A(F AF)Ad | "G"B2 BA B2 "A"c2 |
 "D"(dB)A(F AF)A(B | dB)AF "A"E2 D2 | "D"(dB)A(F AF)Ad | "G"B2 BA B2 "D"d2 ||
-"D"(AB)d(e fa)f(d | fa)f(d "G"ed) B2 | "D"(AB)d(e fa)fd | "G"B2 BA B2 "A"c2 |
-"D"(AB)d(e fa)f(d | fa)f(d "G"ed) B2 | "D"(AB)d(e fa)fd | "G"B2 BA B2 "D"d2 |]
+"D"(!thumb!A!1!B)!3!d(!thumb!e !1!f!3!a)!1!f(!3!d | !1!f!3!a)!1!f(!3!d "G"!thumb!e!3!d) !1!B2 | "D"!thumb!(A!1!B)!3!d(!thumb!e !1!f!3!a)!1!f!3!d | "G"!1!B2 !1!B!thumb!A !1!B2 "A"!2!c2 |
+"D"(!thumb!A!1!B)!3!d(!thumb!e !1!f!3!a)!1!f(!3!d | !1!f!3!a)!1!f(!3!d "G"!thumb!e!3!d) !1!B2 | "D"(!thumb!A!1!B)!3!d(!thumb!e !1!f!3!a)!1!f!3!d | "G"!1!B2 !1!B!thumb!A !1!B2 "D"!3!d2 |]
 V:2
 L:1/4
 "0"D D2 D | D D "1"A, A, | "0"D D2 D | "0"G, G,2 "1"A, |

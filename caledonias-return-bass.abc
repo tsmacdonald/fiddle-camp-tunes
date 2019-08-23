@@ -1,0 +1,16 @@
+%% transpose dD
+X:1
+T:The Caledonia's Return to Caledonia
+C:T. S. Macdonald
+R:air
+L:1/4
+M:C
+K:G clef=bass
+%%staves { 1 2 }
+V:1
+%%text Very Slow
+d/c/ | B G D B, | G,3 A/B/ | c "1"e "4"g "1"B | "2"c3 d/c/ | B G d B | c/d/"1"e/"3"f/ "4"g "3"f/"1"e/ | "4"d B A B | G3 ||
+B/c/ | d "4"g "3"f "4"g | "2"d3 "1x"c/"2"d/ | "4"e "1x"c "2"d "1"B | "0"A3 d/c/ | B G d B | "1x"c/"2"d/"4"e/"1x"c/ "0"A "1"B/"2"c/ | d B A B | G3 |]
+V:2
+z | "0"G,4 | G,4 | "4"C4 | "4"C4 | "0"G,4 | "4"C4 | "0"D2 D2 | "0"G,3 ||
+z | "0"G,4 | "0"G,4 | "4"C2 "3"B, "4"C | "0"D4 | "0"G,4 | "4"C2 "0"D2 | "0"G,2 "0"D2 | "0"G,3 |]

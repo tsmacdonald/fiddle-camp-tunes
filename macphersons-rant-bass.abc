@@ -1,0 +1,19 @@
+%%transpose GG,
+X:1
+T:MacPherson's Rant
+C:attr. Jamie MacPherson; arr. T. S. Macdonald
+M:C
+L:1/8
+K:G clef=bass
+%%staves { 1 2 }
+V:1
+D2 | "G"G3 A G2 B2 | "D"AGAB A2 DE | "G"G3 A B2 D2 | "C"E6 D2 |
+     "G"G3 A G2 B2 | "D"AGAB A2 GF | "Em"G3 E "A7"AFGE | "D"D6 ||
+Bc | "G"d3 B cBAG | "D"B2 A2 A2 Bc | "G"d3 B cBAG | "C"E6 "4"e2 |
+     "G""2"d3 "1"B cBAG | "D"B2 A2 A2 GF | "Em"G3 B "A7"AG E2 | "D"D6 |]
+V:2
+L:1/4
+"0"G, | G,2 G,2 | "0"D2 "0"D2 |"0"G,2 G,2 | "0"C,4 |
+        "0"G,2 G,2 | "0"D2 "0"D2 |"1"E2 "1"A,2 | "0"D3 ||
+"0"D | "0"G,2 G,2 | "0"D2 D2 | "0"G,2 G,2 | "0"C,4 |
+       "0"G,2 G,2 | "0"D2 D2 | "1"E2 "1"A,2 | "0"D3 |]

@@ -1,13 +1,14 @@
+%% transpose DD,
 X:1
 T: The Auld Man's Mare's Deid
 C: attr. Patie Birnie; arr. T. S. Macdonald
 L: 1/8
 M: C|
-K: Em
+K: Em clef=bass
 %%staves { 1 2 }
 V:1
 D2 | "Em"E2 E2 E2 d>B | "D"A<FF>E D>EF<D | "Em"E2 E2 E2 d>^c | "Em"d>B"D"A<F "Em"E2 :|
-|: B>d | "Em"e2 e>d B<ee>^c | "D"d2 d<f D>EF<D | "Em"e>gB>e B2 A>d | "Em"B>A"D"d>F "Em"E2 :|
+|: "4"B>"1x"d | "Em""2"e2 e>"1x"d "4"B<"2"e"4"e>"1"^c | "D""1x"d2 d<"4"f "0"D>"1"E"3"F<"0"D | "Em""1"e>"4"g"3"B>"1"e "1"B2 "0"A>"4"d | "Em"B>A"D"d>F "Em"E2 :|
 V:2
 L:1/4
 "0"D | "1"E E2 E | "0"D D2 D | "1"E E2 E | "1"E "0"D "1"E :|
